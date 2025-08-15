@@ -14,7 +14,7 @@ This project implements an LSTM-based time series prediction model to forecast e
 - **Data Visualization**: Rich plots for data exploration and results analysis
 - **Production Ready**: Clean, modular code with proper documentation
 
-## �� Dataset
+##  Dataset
 
 The dataset contains electricity imbalance prices from the Japanese electricity market:
 
@@ -219,7 +219,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Author**: JIEKAI WU
 - **Email**: ketsu0612@gmail.com
 - **GitHub**: [@dudududke](https://github.com/dudududke)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## ⭐ Star History
 
